@@ -1,0 +1,101 @@
+{
+  "viewport": [
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "titleRight": 138,
+      "yearLeft": 275,
+      "yearRight": 310,
+      "todayWidth": 193
+    },
+    {
+      "width": 360,
+      "scrollWidth": 360,
+      "titleRight": 150,
+      "yearLeft": 313,
+      "yearRight": 350,
+      "todayWidth": 211
+    },
+    {
+      "width": 412,
+      "scrollWidth": 412,
+      "titleRight": 171,
+      "yearLeft": 359,
+      "yearRight": 402,
+      "todayWidth": 258
+    }
+  ],
+  "themes": [
+    {
+      "name": "Dark Blue",
+      "theme": "theme-blue",
+      "titleRight": 150.203125,
+      "yearLeft": 312.625,
+      "yearRight": 350,
+      "scrollWidth": 360,
+      "innerWidth": 360,
+      "yearStyle": "rgb(169, 218, 255)"
+    },
+    {
+      "name": "Claro",
+      "theme": "theme-light",
+      "titleRight": 150.203125,
+      "yearLeft": 312.625,
+      "yearRight": 350,
+      "scrollWidth": 360,
+      "innerWidth": 360,
+      "yearStyle": "rgb(32, 90, 135)"
+    },
+    {
+      "name": "Dark",
+      "theme": "theme-dark",
+      "titleRight": 150.203125,
+      "yearLeft": 312.625,
+      "yearRight": 350,
+      "scrollWidth": 360,
+      "innerWidth": 360,
+      "yearStyle": "rgb(169, 218, 255)"
+    }
+  ],
+  "date": {
+    "monday_label": "Lunes\n· Hoy",
+    "today_count": 1,
+    "today_day_id": "day-0",
+    "after_midnight": "day-1",
+    "after_midnight_label": "Martes\n· Hoy",
+    "weekend_marks": 0,
+    "weekend_labels_visible": 0,
+    "wednesday": "Miércoles\n· Hoy",
+    "wednesday_row": {
+      "w": 192.84375,
+      "cw": 300
+    }
+  },
+  "course": {
+    "selector_open": true,
+    "after": "4.º B",
+    "turno_after": "Turno tarde",
+    "lessons_4b": 5,
+    "preview_4b": "Física · Literatura · Inglés · +2 más",
+    "today_retained": 1,
+    "storage_after": {
+      "colegio-del-pilar-demo-theme": "theme-blue",
+      "colegio-del-pilar-demo-course": "4B"
+    },
+    "opened_lesson_name": "Física",
+    "opened_day": "",
+    "restored": "4.º B",
+    "restored_theme": "theme-blue"
+  },
+  "integrity": {
+    "title": "Colegio del Pilar · DEMO NO OFICIAL · 3° año A",
+    "version": "V1.0.4",
+    "course": "3.º A",
+    "turno": "Turno mañana",
+    "demo": "MODO DEMO",
+    "year": "2027",
+    "original_banner": 0,
+    "classes": "6 clases"
+  },
+  "errors": []
+}

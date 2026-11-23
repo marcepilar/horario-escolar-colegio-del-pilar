@@ -1,5 +1,7 @@
 {
-  "version": "V1.0.3",
+  "version": "V1.0.4",
   "app": "Horario Escolar · Colegio del Pilar · DEMO NO OFICIAL",
-  "updated": "2026-11-23"
+  "updated": "2026-11-23",
+  "status": "PRUEBA",
+  "notes": "Unificación visual con Chesterton, North Hills y St. Matthew’s; sin cambios en horarios ficticios ni identidad del Colegio del Pilar."
 }
